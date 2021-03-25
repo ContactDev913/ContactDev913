@@ -2,4 +2,4 @@
 - 👀 I’m interested in ... gaming, and coding.
 - 🌱 I’m currently learning ... C# and web development.
 - 💞️ I’m looking to collaborate on ... nothing yet.
-- 📫 How to reach me ... dev913.info.contact@gmail.com
+- 📫 How to reach me ... dev913.info.contact@dev913.info
